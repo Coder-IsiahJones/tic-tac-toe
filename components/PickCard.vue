@@ -7,7 +7,9 @@ const selected = ref<1 | 0>(0);
     class="bg-dark-gray text-light-gray-blue367 w-full rounded-2xl p-6 flex flex-col gap-6"
   >
     <!-- Title -->
-    <h3 class="text-light-gray text-center text-base">PICK PLAYER 1'S MARK</h3>
+    <h3 class="text-light-gray text-center text-base font-bold">
+      PICK PLAYER 1'S MARK
+    </h3>
 
     <!-- Player Icon -->
     <div class="grid grid-cols-2 bg-dark-blue p-2 rounded-[10px]">
